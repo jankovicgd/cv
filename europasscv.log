@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.12.5)  5 DEC 2021 10:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.12.5)  26 APR 2022 11:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/nikola/Personal/cv/europasscv
+**/home/nikola/Personal/cv/europasscv.tex
 (/home/nikola/Personal/cv/europasscv.tex
 LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14> (./europasscv.cls
+L3 programming layer <2020-02-14> (/home/nikola/Personal/cv/europasscv.cls
 Document Class: europasscv 2019/01/14 The new Europass curriculum vitae class
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -260,11 +260,11 @@ Package: substr 2009/10/20 v1.2 Handle substrings
 \ecv@sectionrulelength=\skip80
 ) (/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
-) (./europasscv_en.def
+) (/home/nikola/Personal/cv/europasscv_en.def
 File: ecven.def europecv English definitions
-) (./europasscv_en.def
+) (/home/nikola/Personal/cv/europasscv_en.def
 File: ecven.def europecv English definitions
-) (./europasscv.aux)
+) (/home/nikola/Personal/cv/europasscv.aux)
 \openout1 = `europasscv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -350,7 +350,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 20.
 LaTeX Info: Redefining \pageref on input line 20.
 LaTeX Info: Redefining \nameref on input line 20.
- (./europasscv.out) (./europasscv.out)
+ (/home/nikola/Personal/cv/europasscv.out) (/home/nikola/Personal/cv/europasscv.out)
 \@outlinefile=\write3
 \openout3 = `europasscv.out'.
 
@@ -450,7 +450,7 @@ File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
 ) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
- <./europasslogo2013.pdf> <./pic.jpeg> <./address_europass_icon.pdf> <./telephone_europass_icon.pdf> <./mail_europass_icon.pdf> <./website_europass_icon.pdf> <./im_europass_icon.pdf>]
+ </home/nikola/Personal/cv/europasslogo2013.pdf> </home/nikola/Personal/cv/pic.jpeg> </home/nikola/Personal/cv/address_europass_icon.pdf> </home/nikola/Personal/cv/telephone_europass_icon.pdf> </home/nikola/Personal/cv/mail_europass_icon.pdf> </home/nikola/Personal/cv/website_europass_icon.pdf> </home/nikola/Personal/cv/im_europass_icon.pdf>]
 File: europasslogo2013.pdf Graphic file (type pdf)
 <use europasslogo2013.pdf>
 Package pdftex.def Info: europasslogo2013.pdf  used on input line 127.
@@ -483,31 +483,31 @@ Package pdftex.def Info: europasslogo2013.pdf  used on input line 276.
 AED: lastpage setting LastPage
 File: europasslogo2013.pdf Graphic file (type pdf)
 <use europasslogo2013.pdf>
-Package pdftex.def Info: europasslogo2013.pdf  used on input line 304.
+Package pdftex.def Info: europasslogo2013.pdf  used on input line 305.
 (pdftex.def)             Requested size: 76.60127pt x 21.40663pt.
 [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 304.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 304.
- (./europasscv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 304.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 304.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 305.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 305.
+ (/home/nikola/Personal/cv/europasscv.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 305.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 305.
 Package rerunfilecheck Info: File `europasscv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 304.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 305.
  ) 
 Here is how much of TeX's memory you used:
  8019 strings out of 483183
- 125356 string characters out of 5966292
+ 125742 string characters out of 5966292
  411934 words of memory out of 5000000
  22868 multiletter control sequences out of 15000+600000
  555634 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 43i,23n,49p,355b,571s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,23n,49p,359b,571s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/nikola/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0900.600pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} </home/nikola/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx0900.600pk> </home/nikola/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on europasscv.pdf (5 pages, 126939 bytes).
+Output written on /home/nikola/Personal/cv/europasscv.pdf (5 pages, 127166 bytes).
 PDF statistics:
- 197 PDF objects out of 1000 (max. 8388607)
- 99 compressed objects within 1 object stream
+ 198 PDF objects out of 1000 (max. 8388607)
+ 100 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
